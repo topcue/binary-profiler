@@ -27,7 +27,7 @@
 
 ## Getting Started
 
-### Depencies
+### Dependencies
 
 - pintool-3.20
 
